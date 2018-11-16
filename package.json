@@ -1,0 +1,28 @@
+{
+  "name": "generator-automated-react-components",
+  "version": "1.0.0",
+  "description": "A Yeoman Generator to automatically create React Component and Container Classes just by taking user prompts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aditi1126/generator-automated-react-components.git"
+  },
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^1.1.1"
+  },
+  "author": "Aditi Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aditi1126/generator-automated-react-components/issues"
+  },
+  "homepage": "https://github.com/aditi1126/generator-automated-react-components#readme"
+}
